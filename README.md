@@ -35,8 +35,8 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/student-assessment-service.git
-cd student-assessment-service
+git clone https://github.com/Anushka740/FN42_Assessment.git
+cd assessment
 
 # Build the project
 ./gradlew clean build
